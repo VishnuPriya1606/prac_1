@@ -1,2 +1,5 @@
 # prac_1
-jupyter nb basics
+
+## Editing the file
+
+Its a markdown file in this repository.
